@@ -6,3 +6,5 @@ Motivation behind this project was to create a password generator that would ask
 ## Usage
 When loaded into the random password generator, hit the generate button. You will be prompted to input a password length with characters between 8-128. Do so and you hit ok and it will generate a desired password.
 
+## Source
+Code is stored in the Devlop folder
